@@ -12,7 +12,7 @@ This document provides a fully detailed, step-by-step guide to deploy **Apache A
 
 # **Prerequisites**
 
-## Airflow®3.1.3 is tested with:
+## Airflow®3.1.4 is tested with:
 
 * **Python:** 3.10, 3.11, 3.12, 3.13
 * **Databases:**
